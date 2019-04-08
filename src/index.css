@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+.container{
+  height: 100%;
+}
+
+.logo {
+  align-content: center;
+  display: block;
+  width: 65%;
+  margin:50px;
+  padding: 0px;
+  border-color: lightgray;
+  border-style: outset;
+  border-width: 5px;
+}
+
+.headline {
+  margin: 50px;
+  color: white
+}
+
+.navButtons {
+  margin: 50px;
+  align-items: left;
+}
+
+.login {
+  margin: 50px;
+  color: white;
+  align-content: center;
+}
